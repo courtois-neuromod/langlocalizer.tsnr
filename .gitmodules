@@ -1,0 +1,4 @@
+[submodule "sourcedata/langlocalizer.fmriprep"]
+	path = sourcedata/langlocalizer.fmriprep
+	url = https://github.com/courtois-neuromod/langlocalizer.fmriprep
+	datalad-url = https://github.com/courtois-neuromod/langlocalizer.fmriprep
